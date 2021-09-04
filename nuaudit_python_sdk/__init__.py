@@ -1,1 +1,1 @@
-from main import Nuaudit
+from .main import Nuaudit

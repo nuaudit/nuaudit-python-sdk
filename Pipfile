@@ -9,6 +9,7 @@ nuaudit-python-autogen = "*"
 [dev-packages]
 pipenv-setup = "*"
 chardet = "*"
+setupext-janitor = "*"
 
 [requires]
 python_version = "3.9"

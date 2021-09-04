@@ -7,7 +7,7 @@
 ## Usage
 
 ```python
-from main import Nuaudit
+from nuaudit_python_sdk import Nuaudit
 
 nuaudit = Nuaudit(
     api_key="API_KEY_SECRET",

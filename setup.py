@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 NAME = "nuaudit_python_sdk"
-VERSION = "0.1.5"
+VERSION = "0.2.0"
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
     install_requires=[
-        "nuaudit-python-autogen==0.1.5",
+        "nuaudit-python-autogen==0.2.0",
         "python-dateutil==2.8.2; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
         "six==1.16.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
         "urllib3==1.26.6; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",

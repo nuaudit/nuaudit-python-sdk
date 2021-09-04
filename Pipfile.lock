@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "606bc651a4c7cdcd7a9e12d616c271d86d8291c1a8f36bdb6696fae352d9ba87"
+            "sha256": "e8c5fc88e3eeecda98c4ffe66bde99d519160f86e10041fe04eafef4ca2f9114"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,11 +18,11 @@
     "default": {
         "nuaudit-python-autogen": {
             "hashes": [
-                "sha256:d07c7aa13164e73e40ae1b2479535e6b6e3c2b332e55fd3ddbcdb8c1773d23d8",
-                "sha256:fc48fbe23f6079a47542be744ced7dae46ec5a32c363156c246e29b58b75df2d"
+                "sha256:6f30760badf0bbe60997d97f79a833465d66b6914f1f1cd3fb6fa5c9727dfa0d",
+                "sha256:74ee397fad3e9f7d1dc4f28086be81aaf0ceca0138e1b9dc231036e73680d5e9"
             ],
             "index": "pypi",
-            "version": "==0.1.5"
+            "version": "==0.2.0"
         },
         "python-dateutil": {
             "hashes": [
@@ -279,6 +279,14 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
             "version": "==1.5.16"
+        },
+        "setupext-janitor": {
+            "hashes": [
+                "sha256:4bdb0c1c71b541b44edb7f9eb4949694d570cafdf8e5939d1b532a070c70414c",
+                "sha256:9cb4b72323c58b5a691d7bbb5b44079b0171c32297634b43b3ec21452bfa68ef"
+            ],
+            "index": "pypi",
+            "version": "==1.1.2"
         },
         "six": {
             "hashes": [
