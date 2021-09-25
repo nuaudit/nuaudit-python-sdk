@@ -9,7 +9,7 @@ build b:
 clean c:
 	@pipenv run python setup.py clean --all
 
-.PHONY: build d
+.PHONY: deploy d
 deploy d:
 	@twine upload dist/*
 
