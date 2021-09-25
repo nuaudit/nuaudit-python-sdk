@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-nuaudit-python-autogen = "*"
+nuaudit-python-autogen = "==0.17.0"
 
 [dev-packages]
 pipenv-setup = "*"
