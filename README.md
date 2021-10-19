@@ -1,5 +1,3 @@
-# nuaudit. Python SDK
-
 ## Installation
 
 `pip install nuaudit-python-sdk`
